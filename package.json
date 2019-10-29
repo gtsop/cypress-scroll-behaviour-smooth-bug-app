@@ -1,0 +1,17 @@
+{
+  "name": "cypress-scroll-behaviour-smooth-bug-app",
+  "version": "1.0.0",
+  "description": "Demo app to demonstrate bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.5.0"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
